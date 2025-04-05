@@ -422,6 +422,9 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-42" value="酒馆老板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-45" value="酒馆老板" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="-720" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
