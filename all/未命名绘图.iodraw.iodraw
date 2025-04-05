@@ -16,6 +16,14 @@
           <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-1" target="IW7l_OD3i97M3kEL07DL-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="60" />
+              <mxPoint x="500" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-1" target="IW7l_OD3i97M3kEL07DL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-1" value="树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -37,6 +45,9 @@
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-8" value="树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="40" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
