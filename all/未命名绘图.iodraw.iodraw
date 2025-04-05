@@ -123,14 +123,6 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-29" target="IW7l_OD3i97M3kEL07DL-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-29" target="IW7l_OD3i97M3kEL07DL-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="-210" />
-              <mxPoint x="660" y="20" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-29" target="IW7l_OD3i97M3kEL07DL-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="-280" as="targetPoint" />
