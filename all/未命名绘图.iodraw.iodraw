@@ -281,6 +281,13 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-91" value="蠕虫&lt;div&gt;蝇蛆&lt;/div&gt;&lt;div&gt;蝴蝶&lt;/div&gt;&lt;div&gt;萤火虫&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="740" y="-240" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-55" target="IW7l_OD3i97M3kEL07DL-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1149" y="-290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
