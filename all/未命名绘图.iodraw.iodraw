@@ -42,6 +42,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="19.833333333333485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-2" value="一块草皮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" width="80" height="40" as="geometry" />
         </mxCell>
@@ -282,7 +287,7 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-84" value="泥土" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-86" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IW7l_OD3i97M3kEL07DL-86" value="微光" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
