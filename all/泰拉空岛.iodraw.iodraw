@@ -341,22 +341,26 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-11" value="树妖" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-15">
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-15" target="SESqjuQr5JoDCT4Hkqzj-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="-490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-60" y="-540" />
               <mxPoint x="-60" y="-500" />
-              <mxPoint x="-59" y="-500" />
-              <mxPoint x="-59" y="-490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-15" value="树妖" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="-560" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-16" target="SESqjuQr5JoDCT4Hkqzj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-16" value="邪恶草种" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-240" y="-520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-420" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
