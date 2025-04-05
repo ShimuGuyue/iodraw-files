@@ -138,8 +138,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="160" />
-              <mxPoint x="1000" y="160" />
+              <mxPoint x="800" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -411,7 +410,7 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-41" value="邪恶环境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="110" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-42" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-42" value="酒馆老板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
