@@ -124,9 +124,16 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-33" value="洞穴层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="-290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-34">
+        <mxCell id="IW7l_OD3i97M3kEL07DL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-34" target="IW7l_OD3i97M3kEL07DL-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="-390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="-340" />
+              <mxPoint x="330" y="-390" />
+              <mxPoint x="510" y="-390" />
+              <mxPoint x="510" y="-369" />
+              <mxPoint x="400" y="-369" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-34" value="宝石" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
