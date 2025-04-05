@@ -215,16 +215,8 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-57" value="墓地环境&lt;div&gt;蛆虫&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="-50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="-300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="95" y="-280" />
-              <mxPoint x="95" y="-290" />
-              <mxPoint x="60" y="-290" />
-              <mxPoint x="60" y="-300" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-62" target="IW7l_OD3i97M3kEL07DL-63">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-62" value="NPC" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="-310" width="100" height="60" as="geometry" />
@@ -252,11 +244,6 @@
               <mxPoint x="-60" y="-280" />
               <mxPoint x="-60" y="-220" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-63" target="IW7l_OD3i97M3kEL07DL-63">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-63" value="商人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
