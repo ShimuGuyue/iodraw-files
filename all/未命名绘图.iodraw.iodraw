@@ -131,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-29">
+        <mxCell id="IW7l_OD3i97M3kEL07DL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-29" target="IW7l_OD3i97M3kEL07DL-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="-280" as="targetPoint" />
             <Array as="points">
@@ -214,6 +214,9 @@
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-57" value="墓地环境&lt;div&gt;蛆虫&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="800" y="-50" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-62" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
