@@ -653,11 +653,17 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-114" value="神庙环境和石巨人" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="-130" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-116" target="SESqjuQr5JoDCT4Hkqzj-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-116" value="圣诞节礼物" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-118" value="圣诞节气氛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="278" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-119" value="雪块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="280" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
