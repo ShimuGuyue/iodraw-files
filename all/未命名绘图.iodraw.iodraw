@@ -51,9 +51,13 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-6" value="木头" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-8">
+        <mxCell id="IW7l_OD3i97M3kEL07DL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-8" target="IW7l_OD3i97M3kEL07DL-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600.3333333333335" y="160.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="140" />
+              <mxPoint x="400" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-8" value="种子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
