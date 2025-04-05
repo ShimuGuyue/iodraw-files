@@ -255,7 +255,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1200" y="-350" />
-              <mxPoint x="1340" y="-350" />
+              <mxPoint x="1320" y="-350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -546,8 +546,8 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-77" value="生命水晶" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-79" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1320" y="-510" width="80" height="40" as="geometry" />
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-79" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="-520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
