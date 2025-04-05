@@ -242,6 +242,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="-220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-60" y="-340" />
+              <mxPoint x="-60" y="-220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-63" value="商人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="-360" width="80" height="40" as="geometry" />
         </mxCell>
@@ -259,6 +268,9 @@
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-71" value="捕虫网" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="-410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-75" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="-290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
