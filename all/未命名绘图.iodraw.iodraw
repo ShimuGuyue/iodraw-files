@@ -172,17 +172,6 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-43" value="地狱、岩浆史莱姆" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="-210" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-44" target="IW7l_OD3i97M3kEL07DL-41">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="860" y="-220" />
-              <mxPoint x="860" y="-180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-44" value="铁制工具" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="-240" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-48" target="IW7l_OD3i97M3kEL07DL-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -272,6 +261,9 @@
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-77" value="木头和石头" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="-250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-51" target="IW7l_OD3i97M3kEL07DL-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
