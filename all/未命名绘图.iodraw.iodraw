@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="泥土" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="一格泥土" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-1" target="IW7l_OD3i97M3kEL07DL-6">
@@ -73,7 +73,12 @@
           <mxGeometry x="450" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-13" target="IW7l_OD3i97M3kEL07DL-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="-100" />
+              <mxPoint x="400" y="-220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-13" value="物块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="-120" width="80" height="40" as="geometry" />
@@ -93,7 +98,7 @@
           <mxGeometry x="360" y="-240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-26" value="液体复制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="-150" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="-170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
