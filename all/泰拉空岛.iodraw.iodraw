@@ -488,11 +488,20 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-62" value="巫医" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="280" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-64" target="SESqjuQr5JoDCT4Hkqzj-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-64" value="哥布林入侵" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-66" value="哥布林斥候" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-67" value="哥布林工匠" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1095" y="348" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
