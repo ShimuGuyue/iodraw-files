@@ -561,8 +561,8 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-82" value="护士" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="-600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-84" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1060" y="-110" width="120" height="60" as="geometry" />
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-84" value="蘑菇环境" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1060" y="-129" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
