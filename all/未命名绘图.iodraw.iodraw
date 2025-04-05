@@ -8,9 +8,9 @@
           <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-1" value="树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IW7l_OD3i97M3kEL07DL-2" value="草皮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
