@@ -702,8 +702,8 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-126" value="微光" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="348" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ofTS_3CvQJPbuhvqkFhp-0" value="钓鱼" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1420" y="-510" width="80" height="40" as="geometry" />
+        <mxCell id="ofTS_3CvQJPbuhvqkFhp-0" value="云" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1400" y="-520" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
