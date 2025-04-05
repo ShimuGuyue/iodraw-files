@@ -247,8 +247,8 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-69" value="微光" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-320" y="-330" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-71" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="-370" width="120" height="60" as="geometry" />
+        <mxCell id="IW7l_OD3i97M3kEL07DL-71" value="捕虫网" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="-400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
