@@ -385,20 +385,10 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-29" value="水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-720" y="-250" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-34" target="SESqjuQr5JoDCT4Hkqzj-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-34" value="泥土" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-270" y="-10" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-36" target="SESqjuQr5JoDCT4Hkqzj-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-36" value="淤泥" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-270" y="110" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-37" value="水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-220" y="68" width="40" height="30" as="geometry" />
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="SESqjuQr5JoDCT4Hkqzj-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-220" y="170" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-38" value="丛林环境" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-270" y="230" width="100" height="60" as="geometry" />
