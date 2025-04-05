@@ -75,8 +75,14 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-13" value="物块" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-17" target="IW7l_OD3i97M3kEL07DL-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-17" value="一格微光" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="-120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IW7l_OD3i97M3kEL07DL-22" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="-250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
