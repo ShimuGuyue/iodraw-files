@@ -359,7 +359,7 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-16" value="邪恶草种" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-240" y="-520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-18" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-18" value="邪恶环境" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="-530" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
