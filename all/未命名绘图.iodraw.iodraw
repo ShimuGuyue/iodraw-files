@@ -81,8 +81,8 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-17" value="一格微光" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-22" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="-250" width="120" height="60" as="geometry" />
+        <mxCell id="IW7l_OD3i97M3kEL07DL-22" value="无限微光" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
