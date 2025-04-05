@@ -232,8 +232,8 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-63" value="商人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="-360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-65" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-270" y="-370" width="120" height="60" as="geometry" />
+        <mxCell id="IW7l_OD3i97M3kEL07DL-65" value="铁砧" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-240" y="-360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
