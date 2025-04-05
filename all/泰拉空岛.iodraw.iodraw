@@ -230,7 +230,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="-440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="-540" />
+              <mxPoint x="120" y="-280" />
+              <mxPoint x="120" y="-540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -342,6 +343,9 @@
         </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-15" value="树妖" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="-560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-220" y="-600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
