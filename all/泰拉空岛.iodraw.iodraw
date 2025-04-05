@@ -12,8 +12,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="一格泥土" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="一格泥土" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="70" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-1" target="IW7l_OD3i97M3kEL07DL-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -42,8 +42,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-2" value="一块草皮" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="-10" width="90" height="50" as="geometry" />
+        <mxCell id="IW7l_OD3i97M3kEL07DL-2" value="一块草皮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="-10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-5" value="长叶子" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="30" width="60" height="30" as="geometry" />
