@@ -290,6 +290,9 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-0" value="商人" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-2" value="钱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="-132" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
