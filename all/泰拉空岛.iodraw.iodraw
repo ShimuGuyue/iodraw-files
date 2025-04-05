@@ -170,7 +170,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-27" target="SESqjuQr5JoDCT4Hkqzj-116">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-27" value="刷怪" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="-120" width="80" height="40" as="geometry" />
@@ -650,7 +654,7 @@
           <mxGeometry x="-450" y="-130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-116" value="刷怪" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="310" width="100" height="60" as="geometry" />
+          <mxGeometry x="350" y="280" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
