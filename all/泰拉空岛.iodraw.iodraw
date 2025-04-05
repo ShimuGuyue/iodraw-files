@@ -637,8 +637,14 @@
         <mxCell id="SESqjuQr5JoDCT4Hkqzj-108" value="神圣环境" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="190" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SESqjuQr5JoDCT4Hkqzj-113" value="神庙砖&lt;div&gt;神庙祭坛&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SESqjuQr5JoDCT4Hkqzj-113" target="SESqjuQr5JoDCT4Hkqzj-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-113" value="神庙砖&lt;div&gt;神庙祭坛&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-210" y="-129" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SESqjuQr5JoDCT4Hkqzj-114" value="神庙环境和石巨人" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-390" y="-129" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
