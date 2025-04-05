@@ -190,11 +190,11 @@
         <mxCell id="IW7l_OD3i97M3kEL07DL-53" value="大部分矿物&lt;div&gt;各种药水&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1150" y="-450" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IW7l_OD3i97M3kEL07DL-55" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IW7l_OD3i97M3kEL07DL-55" value="鱼饵" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="-320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-57" value="墓地环境&lt;div&gt;蛆虫&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="-50" width="70" height="30" as="geometry" />
+          <mxGeometry x="730" y="-220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IW7l_OD3i97M3kEL07DL-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IW7l_OD3i97M3kEL07DL-62" target="IW7l_OD3i97M3kEL07DL-63">
           <mxGeometry relative="1" as="geometry">
