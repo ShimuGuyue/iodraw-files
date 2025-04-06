@@ -711,6 +711,9 @@
         <mxCell id="ofTS_3CvQJPbuhvqkFhp-3" value="天空环境" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1390" y="-610" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_2OnYToptYcMwga8BaLG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_2OnYToptYcMwga8BaLG-1" target="_2OnYToptYcMwga8BaLG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_2OnYToptYcMwga8BaLG-1" value="大理石块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-210" y="230" width="100" height="60" as="geometry" />
         </mxCell>
@@ -720,7 +723,7 @@
         <mxCell id="_2OnYToptYcMwga8BaLG-3" value="大理石环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="230" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_2OnYToptYcMwga8BaLG-4" value="花岗岩块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_2OnYToptYcMwga8BaLG-4" value="花岗岩环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-450" y="350" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
