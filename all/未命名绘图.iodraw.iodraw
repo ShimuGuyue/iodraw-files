@@ -16,7 +16,9 @@
         <mxCell id="FU5j0VBVK7ZAnIZ-_xPB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FU5j0VBVK7ZAnIZ-_xPB-4" target="FU5j0VBVK7ZAnIZ-_xPB-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="35" y="305" />
+              <mxPoint x="120" y="380" />
+              <mxPoint x="120" y="210" />
+              <mxPoint x="360" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -25,6 +27,9 @@
         </mxCell>
         <mxCell id="FU5j0VBVK7ZAnIZ-_xPB-7" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="580" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FU5j0VBVK7ZAnIZ-_xPB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.35;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FU5j0VBVK7ZAnIZ-_xPB-4" target="FU5j0VBVK7ZAnIZ-_xPB-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
