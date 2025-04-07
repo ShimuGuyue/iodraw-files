@@ -29,7 +29,11 @@
           <mxGeometry x="190" y="580" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FU5j0VBVK7ZAnIZ-_xPB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.35;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FU5j0VBVK7ZAnIZ-_xPB-4" target="FU5j0VBVK7ZAnIZ-_xPB-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
